@@ -1,1 +1,2 @@
-# ideals
+理想
+hello  world
